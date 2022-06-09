@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WMAD202.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/main/Assignment1Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/question4/question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/ca/ciccc/wmad/assignment1/question5/question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/wmad202-assignment1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/assignment10/main/Assignment10Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/wmad202-assignment10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/wmad202-assignment2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/wmad202-assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/src/ca/ciccc/assignment4/main/Assignment4Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/wmad202-assignment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/assignment5/main/Assignment5Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/wmad202-assignment5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/assignment6/main/Assignment6Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/wmad202-assignment6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/Assignment7Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/wmad202-assignment7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/assignment8/main/Assignment8Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/wmad202-assignment8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/assignment9/main/Assignment9Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/wmad202-assignment9.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AJoue5WvKbSL4kDBTRyhVfM3lr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "corretto-18",
+    "last_opened_file_path": "/Users/saulnavarrohuerta/IdeaProjects/SaulsJavaFolder/WMAD202"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="" />
+      <created>1654737280305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654737280305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
