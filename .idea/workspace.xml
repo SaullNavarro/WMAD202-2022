@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/wmad202-2022/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment1/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment10/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment4/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment5/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment6/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment9/src/module-info.java" afterDir="false" />
+    <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="add export modules">
+      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/src/ca/ciccc/wmad202/lecture/basics/JavaBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/src/ca/ciccc/wmad202/lecture/main/LectureCodeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/wmad202-lecture-code.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/assignment10/main/Assignment10Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment10/src/ca/ciccc/assignment10/main/Assignment10Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment4/src/ca/ciccc/assignment4/main/Assignment4Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment4/src/ca/ciccc/assignment4/main/Assignment4Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/assignment5/main/Assignment5Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment5/src/ca/ciccc/assignment5/main/Assignment5Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/assignment6/main/Assignment6Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/assignment6/main/Assignment6Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/Assignment7Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/Assignment7Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/assignment8/main/Assignment8Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/assignment8/main/Assignment8Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/assignment9/main/Assignment9Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment9/src/ca/ciccc/assignment9/main/Assignment9Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-2022/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/wmad202-2022.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +48,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "corretto-18",
     "last_opened_file_path": "/Users/saulnavarrohuerta/IdeaProjects/SaulsJavaFolder/WMAD202",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
@@ -102,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654808044065</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add export modules">
+      <created>1654810289699</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654810289699</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +108,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -119,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="$ git init" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="add export modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="add export modules" />
   </component>
 </project>

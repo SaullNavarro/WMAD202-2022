@@ -10,8 +10,10 @@ import ca.ciccc.assignment9.main.Assignment9Driver;
 import ca.ciccc.wmad.assignment1.main.Assignment1Driver;
 import ca.ciccc.wmad.assignment2.main.Assignment2Driver;
 import ca.ciccc.wmad.assignment3.main.Assignment3Driver;
+import ca.ciccc.wmad202.lecture.main.LectureCodeDriver;
 
 public class WMAD202Driver {
+
     public static void main(String[] args) {
         Assignment1Driver.run();
         Assignment2Driver.run();
@@ -23,6 +25,7 @@ public class WMAD202Driver {
         Assignment8Driver.run();
         Assignment9Driver.run();
         Assignment10Driver.run();
+        LectureCodeDriver.run();
 
     }
 }

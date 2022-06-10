@@ -9,5 +9,5 @@ module wmad202 {
     requires wmad202.assignment8;
     requires wmad202.assignment9;
     requires wmad202.assignment10;
-
+    requires wmad202.lecture.code;
 }
