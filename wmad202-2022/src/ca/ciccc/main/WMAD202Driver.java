@@ -15,17 +15,17 @@ import ca.ciccc.wmad202.lecture.main.LectureCodeDriver;
 public class WMAD202Driver {
 
     public static void main(String[] args) {
-        Assignment1Driver.run();
         Assignment2Driver.run();
-        Assignment3Driver.run();
-        Assignment4Driver.run();
-        Assignment5Driver.run();
-        Assignment6Driver.run();
-        Assignment7Driver.run();
-        Assignment8Driver.run();
-        Assignment9Driver.run();
-        Assignment10Driver.run();
-        LectureCodeDriver.run();
+//        Assignment1Driver.run();
+//        Assignment3Driver.run();
+//        Assignment4Driver.run();
+//        Assignment5Driver.run();
+//        Assignment6Driver.run();
+//        Assignment7Driver.run();
+//        Assignment8Driver.run();
+//        Assignment9Driver.run();
+//        Assignment10Driver.run();
+//        LectureCodeDriver.run();
 
     }
 }
