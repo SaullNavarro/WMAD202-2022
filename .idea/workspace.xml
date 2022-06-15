@@ -5,12 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question3/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question4/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question5/problem2/Question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question6/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question10/Question10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question7/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question8/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question9/Question9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question5/problem2/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question5/problem2/Question5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654919783774</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add Question3,4,5,6 solution">
+      <created>1655170902638</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655170902638</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +157,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add export modules" />
     <MESSAGE value="add Question2 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Question2 solution" />
+    <MESSAGE value="add Question3,4,5,6 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Question3,4,5,6 solution" />
   </component>
 </project>

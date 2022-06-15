@@ -16,7 +16,7 @@ public class Question5 {
             ch = word.charAt(i);
             reversed = String.valueOf(ch).concat(reversed);
         }
-        System.out.printf("Reversed word is: %s", reversed);
+        System.out.printf("Reversed word is: %s\n", reversed);
 
 
     }
