@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question1/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question2/Question2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question2/Question2.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question2/Question2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655254419684</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add assignment 3, question 1">
+      <created>1655347671859</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655347671859</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +168,7 @@
     <MESSAGE value="add Question2 solution" />
     <MESSAGE value="add Question3,4,5,6 solution" />
     <MESSAGE value="add Question 7,8,9,10 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Question 7,8,9,10 solution" />
+    <MESSAGE value="add assignment 3, question 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add assignment 3, question 1" />
   </component>
 </project>
