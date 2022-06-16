@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question10/Question10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question7/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question8/Question8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question9/Question9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question1/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question2/Question2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/Assignment2Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question5/problem2/Question5.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment2/src/ca/ciccc/wmad/assignment2/main/question5/problem2/Question5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655170902638</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add Question 7,8,9,10 solution">
+      <created>1655254419684</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655254419684</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -158,6 +163,7 @@
     <MESSAGE value="add export modules" />
     <MESSAGE value="add Question2 solution" />
     <MESSAGE value="add Question3,4,5,6 solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Question3,4,5,6 solution" />
+    <MESSAGE value="add Question 7,8,9,10 solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Question 7,8,9,10 solution" />
   </component>
 </project>
