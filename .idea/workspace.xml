@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question3/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question4/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question5/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question6/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/question7/Question7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment3/src/ca/ciccc/wmad/assignment3/main/Assignment3Driver.java" afterDir="false" />
     </list>
@@ -144,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655352076648</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add assignment 3, question 3, 4">
+      <created>1655520166938</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655520166938</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +187,7 @@
     <MESSAGE value="add Question 7,8,9,10 solution" />
     <MESSAGE value="add assignment 3, question 1" />
     <MESSAGE value="add assignment 3, question 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add assignment 3, question 2" />
+    <MESSAGE value="add assignment 3, question 3, 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="add assignment 3, question 3, 4" />
   </component>
 </project>

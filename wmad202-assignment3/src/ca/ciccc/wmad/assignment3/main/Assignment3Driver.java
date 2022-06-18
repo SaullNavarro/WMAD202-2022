@@ -4,6 +4,8 @@ import ca.ciccc.wmad.assignment3.main.question1.Question1;
 import ca.ciccc.wmad.assignment3.main.question2.Question2;
 import ca.ciccc.wmad.assignment3.main.question3.Question3;
 import ca.ciccc.wmad.assignment3.main.question4.Question4;
+import ca.ciccc.wmad.assignment3.main.question5.Question5;
+import ca.ciccc.wmad.assignment3.main.question6.Question6;
 
 public class Assignment3Driver {
     public static void run(){
@@ -15,6 +17,10 @@ public class Assignment3Driver {
         q3.shapeInput();
         Question4 q4 = new Question4();
         q4.numbersList();
+        Question5 q5 = new Question5();
+        q5.itemsAndRepetitions();
+        Question6 q6 = new Question6();
+        q6.listArray();
     }
 
 }
