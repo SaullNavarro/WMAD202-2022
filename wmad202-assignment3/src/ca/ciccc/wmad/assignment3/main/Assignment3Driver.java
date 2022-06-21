@@ -6,6 +6,7 @@ import ca.ciccc.wmad.assignment3.main.question3.Question3;
 import ca.ciccc.wmad.assignment3.main.question4.Question4;
 import ca.ciccc.wmad.assignment3.main.question5.Question5;
 import ca.ciccc.wmad.assignment3.main.question6.Question6;
+import ca.ciccc.wmad.assignment3.main.question7.Question7;
 
 public class Assignment3Driver {
     public static void run(){
@@ -21,6 +22,9 @@ public class Assignment3Driver {
         q5.itemsAndRepetitions();
         Question6 q6 = new Question6();
         q6.listArray();
+        Question7 q7 = new Question7();
+        q7.linearSearch();
+
     }
 
 }
