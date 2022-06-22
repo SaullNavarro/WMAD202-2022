@@ -3,7 +3,7 @@ import java.util.Scanner;
 import java.util.ArrayList;
 
 public class Question8 {
-    public static void topLimit(){
+    public void toppedLimit(){
         Scanner in = new Scanner(System.in);
         System.out.print("Enter topLimit: ");
         int topLimit = in.nextInt();

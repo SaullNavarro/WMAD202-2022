@@ -7,6 +7,7 @@ import ca.ciccc.wmad.assignment3.main.question4.Question4;
 import ca.ciccc.wmad.assignment3.main.question5.Question5;
 import ca.ciccc.wmad.assignment3.main.question6.Question6;
 import ca.ciccc.wmad.assignment3.main.question7.Question7;
+import ca.ciccc.wmad.assignment3.main.question8.Question8;
 
 public class Assignment3Driver {
     public static void run(){
@@ -24,6 +25,8 @@ public class Assignment3Driver {
         q6.listArray();
         Question7 q7 = new Question7();
         q7.linearSearch();
+        Question8 q8 = new Question8();
+        q8.toppedLimit();
 
     }
 
