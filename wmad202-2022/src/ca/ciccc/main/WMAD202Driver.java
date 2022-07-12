@@ -17,10 +17,10 @@ public class WMAD202Driver {
     public static void main(String[] args) {
   //      Assignment2Driver.run();
 //        Assignment1Driver.run();
-        Assignment3Driver.run();
+//        Assignment3Driver.run();
 //        Assignment4Driver.run();
 //        Assignment5Driver.run();
-//        Assignment6Driver.run();
+        Assignment6Driver.run();
 //        Assignment7Driver.run();
 //        Assignment8Driver.run();
 //        Assignment9Driver.run();
