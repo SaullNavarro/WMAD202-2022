@@ -23,6 +23,7 @@ public class Assignment6Driver {
         Cloth tShirt = new Cloth(701, "TShirt",15, "China",tShirtMaterials);
 
         System.out.println("-----Problem2-----");
+        System.out.println("-(: Thank you for shopping with us :)-");
 
         Drink pepsi1 = new Drink(412, "Pepsi", 2, "USA", false, 150);
         Drink pepsi2 = new Drink(412, "Pepsi", 2, "USA", false, 150);
