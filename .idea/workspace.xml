@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="14536c95-4afc-46e8-9053-eeedb5b0fea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem1/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem1/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem1/Specificable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem1/TestCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem3/ExchangeElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem3/TestExchangeElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem4/ItemsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/problem4/TestItemsList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/assignment8/main/problem1/Foo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/assignment8/main/problem2/ApplicationDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/assignment8/main/problem2/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-assignment8/src/ca/ciccc/assignment8/main/problem3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wmad202-lecture-code/src/ca/ciccc/wmad202/lecture/AboutClasses/HelloWorldAnonymousClasses.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-2022/src/ca/ciccc/main/WMAD202Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/assignment6/main/Assignment6Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment6/src/ca/ciccc/assignment6/main/Assignment6Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/Assignment7Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/wmad202-assignment7/src/ca/ciccc/assignment7/main/Assignment7Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +35,8 @@
       <list>
         <option value="package-info" />
         <option value="module-info" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -184,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657586432040</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add assignment 6">
+      <created>1657588347605</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1657588347605</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

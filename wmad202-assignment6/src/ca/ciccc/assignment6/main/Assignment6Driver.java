@@ -11,16 +11,16 @@ import ca.ciccc.assignment6.main.problem2.ShoppingCart;
 import java.util.ArrayList;
 
 public class Assignment6Driver {
-    public static void run(){
+    public static void run() {
         Product dietPepsi = new Product(110, "Diet Pepsi", 2, "USA");
         ArrayList<String> sushiIngredients = new ArrayList<>();
         sushiIngredients.add("Rice");
         sushiIngredients.add("Avocado");
         sushiIngredients.add("Seaweed");
-        Food sushiRoll = new Food(777,"California Roll", 4.99, "Japan", 436,10,sushiIngredients);
+        Food sushiRoll = new Food(777, "California Roll", 4.99, "Japan", 436, 10, sushiIngredients);
         ArrayList<Materials> tShirtMaterials = new ArrayList<>();
-        tShirtMaterials.add(new Materials(10,"Nylon"));
-        Cloth tShirt = new Cloth(701, "TShirt",15, "China",tShirtMaterials);
+        tShirtMaterials.add(new Materials(10, "Nylon"));
+        Cloth tShirt = new Cloth(701, "TShirt", 15, "China", tShirtMaterials);
 
         System.out.println("-----Problem2-----");
         System.out.println("-(: Thank you for shopping with us :)-");
